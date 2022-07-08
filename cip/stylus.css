@@ -1,0 +1,192 @@
+
+
+
+.container{
+    font-family:corbel;
+    font-size: 15px ;
+    background-color: rgb(207, 224, 221);
+    width: 80%;
+    height: 100%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border:1px rgb(161, 161, 158) solid;
+    border-radius:10px;
+}
+
+
+  
+.formA{
+    padding:20px;
+    font-family: Yu Gothic UI;
+    font-size: 15px;
+    
+
+}
+
+.formA label{
+    display: block;
+}
+.formA input[type="text"]{
+    padding: 5px;
+    width: 80%;
+}
+.formA input[type="email"]{
+    padding: 5px;
+    width:80%;
+}
+.formA input[type="submit"]{
+    background-color: lightcoral;
+    width: 60px;
+    border-radius:5px;
+    font-family:monospace;
+
+}
+
+.main{
+    float: right;
+
+    font-family:Yu Gothic UI ;
+    width: 70%;
+    margin-top: 5px;
+    border: 1px solid gray;
+    
+    
+    border-radius: 2px;
+}
+
+.tbl{
+    float:right;
+    width:890px;
+   
+    
+    
+
+}
+
+.tbl th{
+    font-family: Yu Gothic UI;
+    font-size: 15px;
+    
+    background-color:rgb(80, 187, 214);
+    border:1px rgb(56, 78, 143) solid;
+    border-radius: 2px;
+  
+    margin-left: 100px;
+  
+
+}
+.tbl tr{
+    font-family: Yu Gothic UI;
+
+}
+
+
+
+aside{
+    float:left;
+    width: 400px;
+
+}
+
+aside button{
+    width: 70px;
+    font-family: corbel;
+    font-size: 5px;
+    font-weight: bold;
+}
+
+
+
+header{ 
+    color: rgb(255, 255, 255);
+    font-family: 'Yu Gothic UI', Times, serif;
+    font-size: 8px;
+    background-color: rgb(207, 224, 221);
+    color:rgb(32, 32, 70);
+
+
+}
+
+
+.ta1 {
+	width:800px;
+	height:120px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+	background-color:#d4e1e7;
+	border:1px solid #34bfd8;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.leb{
+    font-size: 20px;
+    font-family: Yu Gothic UI;
+    font-weight: bold;
+    
+
+}
+
+.slct{
+
+    margin: 1%;
+    padding: 5 px;
+}
+
+.inline{
+    display: inline;
+    padding: 5px;
+    width:80%;
+    font-family: Yu Gothic UI;
+    font-size: 15px;
+   
+    
+  
+}
+
+.input[type=text] {
+    width:60px;
+    padding: 1px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+ /* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+} 
+
+
+

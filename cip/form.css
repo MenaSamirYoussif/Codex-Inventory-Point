@@ -1,0 +1,101 @@
+
+.form_body{
+    
+
+
+}
+
+.log_form{
+    position: absolute;
+    background: #ccc;
+    display: flex;
+    
+    display: block;
+    padding: 5px;
+    width: 70%;
+    display: inline-block;
+
+    border: 1px solid;
+    border-radius: 5px;
+    margin:100px ;
+
+    margin:25px auto;
+    width: 1000px;
+
+}
+
+.label{
+    display: inline-block;
+    width: 100px;
+
+}
+
+
+
+.input_box{
+    position: relative;
+    width: 40%;
+    background: rgb(236, 240, 240);
+    border: 1px solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+   
+
+}
+
+.inline_input{
+    display: flex; /* 2. display flex to the rescue */
+    flex-direction: row;
+    margin: 10px;
+
+}
+
+.font_general{
+    font-family: corbel;
+    font-size: 16px;
+}
+
+.logo{
+    padding: 5px;
+    margin: 5px;
+}
+
+.button{
+    width: 70px;
+    height: 30px;
+    float: right;
+    text-align: center;
+    font-family: corbel;
+    padding: 3px;
+    margin: 10px;
+    border: 10px;
+    border-radius: 3px;
+    background: rgb(93, 200, 191);
+    cursor: pointer;
+}
+
+.button_line{
+    width: 70px;
+    height: 20px;
+    
+    text-align: center;
+    font-family: corbel;
+    padding: 3px;
+    margin: 5px;
+    border: 10px;
+    border-radius: 3px;
+    background: rgb(200, 93, 93);
+    cursor: pointer;
+}
+
+.select{
+    font-family: corbel;
+    margin: 5px;
+}
+
+.date{
+    font-family: corbel;
+    margin: 5px;

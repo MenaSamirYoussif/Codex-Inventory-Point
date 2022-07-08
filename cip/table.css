@@ -1,0 +1,31 @@
+.content-table{
+    
+    margin:25px auto;
+   width: 1000px;
+    
+   
+}
+
+.content-table .t_head{
+    background-color: rgb(182, 187, 192);
+    font-family: corbel;
+    font-size: 14pt;
+    text-align: left;
+    padding-left: 10pt;
+    border-radius: 5px;
+    width: max-content;
+    
+
+}
+
+.content-table .t_body{
+    background-color: rgb(245, 248, 252);
+    font-family: Yu Gothic Medium ;
+    font-size: 12pt;
+    
+    padding: 100px;
+    margin: 20px;
+    border-bottom: .5px solid gray;
+     width: max-content;
+
+}
